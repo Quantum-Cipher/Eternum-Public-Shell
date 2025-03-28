@@ -1,0 +1,15 @@
+{
+  "name": "Eternum Public Shell Token",
+  "description": "A soul-aligned symbol of Eternum's public truth interface.",
+  "image": "ipfs://placeholder-glyph-cid",
+  "attributes": [
+    {
+      "trait_type": "Layer",
+      "value": "Public Shell"
+    },
+    {
+      "trait_type": "Soulbound",
+      "value": "False"
+    }
+  ]
+}

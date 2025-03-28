@@ -1,0 +1,17 @@
+{
+  "name": "Eternum Public Shell",
+  "description": "Non-sensitive, public-facing version of the Eternum project for outreach and ethical AI funding.",
+  "tags": [
+    "eternum",
+    "public",
+    "shell",
+    "truth",
+    "ai",
+    "quantum",
+    "glyph"
+  ],
+  "author": "Quantum_Cipher (spacecadette)",
+  "created": "2025-03-28T08:52:34.370390Z",
+  "version": "lite-1.0",
+  "format": "application/zip"
+}
