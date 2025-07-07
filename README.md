@@ -48,5 +48,5 @@ Released under **ETL-1: Eternum Truth License v1.0**
 
 ---
 
-🛡️ **Quantum_Cipher369 | spacecadette**  
+🛡️ **Quantum-Cipher | *spacecadette  
 This shell is a chess piece — the vault is the board.
